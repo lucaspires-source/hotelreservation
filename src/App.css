@@ -95,11 +95,12 @@ h6 {
   width: 100%;
   padding: 0.75rem 2rem;
   background: var(--offWhite);
+  justify-content: flex-end;
   z-index: 1;
 }
 .nav-header {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 .nav-btn {
   background: transparent;

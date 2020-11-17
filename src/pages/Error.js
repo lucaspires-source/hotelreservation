@@ -1,10 +1,8 @@
 import React from 'react'
-
+import Hero from '../components/Hero'
 const Error = () => {
     return (
-        <div>
-            <h1> this is the error page</h1>
-        </div>
+            <Hero/>
     )
 }
 export default Error
