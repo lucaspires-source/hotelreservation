@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+### `Hotel reservation application made with React`
+
+
+
+E-commerce projetct based on the tutorial by John Smilga  avaliable on freeCodeCamp
+Check it out https://lucas-hotel-project.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
