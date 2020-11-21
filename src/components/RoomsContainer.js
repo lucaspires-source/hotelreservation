@@ -4,7 +4,7 @@ import RoomsFilter from './RoomsFilter';
 import RoomsList from './RoomsList';
 import Loading from './Loading';
 
-const RoomsContainer = (context) => {
+const RoomsContainer = ({context}) => {
     const { loading, sortedRooms, rooms } = context;
     if (loading) {
       return <Loading />;
